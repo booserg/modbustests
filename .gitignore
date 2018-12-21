@@ -3,3 +3,6 @@
 ################################################################################
 
 /ModbusAsciiMaster/bin/Debug
+/ModbusAsciiMaster/obj/Debug
+/ModbusAsciiSlave/bin/Debug
+/ModbusAsciiSlave/obj/Debug
